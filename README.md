@@ -10,7 +10,7 @@ do nothing to advance the player's score, but they could lead to clues as to whe
 There is also a marker button that allows the player to mark off certain tiles that will not help their score.
 
 # Strategies
-The biggest clues lie in the ratios on the ends of the board:
+The biggest clues lie in the ratios on the ends of the board:  
 1.) Of course, if the points to bomb ratio is 0:5, mark off the entire row/column.  
 2.) Uncover any rows/columns that do not have any bombs, i.e. the ratio ends with a 0.  
 3.) If the two integers in the ratio add up to 5 (i.e. 3:2 or 1:4), you know that there can be nothing of value in the row/column since, if you do the math, the 
