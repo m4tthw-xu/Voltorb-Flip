@@ -11,14 +11,14 @@ There is also a marker button that allows the player to mark off certain tiles t
 
 # Strategies
 The biggest clues lie in the ratios on the ends of the board:
-1.) Of course, if the points to bomb ratio is 0:5, mark off the entire row/column
-2.) Uncover any rows/columns that do not have any bombs, i.e. the ratio ends with a 0.
+1.) Of course, if the points to bomb ratio is 0:5, mark off the entire row/column.  
+2.) Uncover any rows/columns that do not have any bombs, i.e. the ratio ends with a 0.  
 3.) If the two integers in the ratio add up to 5 (i.e. 3:2 or 1:4), you know that there can be nothing of value in the row/column since, if you do the math, the 
-row/column only contains 0s and 1s.
+row/column only contains 0s and 1s.  
 4.) Use deductive reasoning if you uncover a '2' or '3': look to the perpendicular row/column and calculate if the rest of the row/column contains something of
-value or not.
-5.) Everyone has 'statistical intuition': use that here if all the other previous hints won't reveal anything useful
-6.) Diagonals!!! You'll understand if you play and it makes the 'logic' of the game way easier
+value or not.  
+5.) Everyone has 'statistical intuition': use that here if all the other previous hints won't reveal anything useful.  
+6.) Diagonals!!! You'll understand if you play and it makes the 'logic' of the game way easier.  
 
 # Rights n Stuff
 This is open source, feel free to modify and improve. I claim no right to the originality nor concept of the program.
