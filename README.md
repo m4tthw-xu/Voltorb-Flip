@@ -20,5 +20,8 @@ value or not.
 5.) Everyone has 'statistical intuition': use that here if all the other previous hints won't reveal anything useful.  
 6.) Diagonals!!! You'll understand if you play and it makes the 'logic' of the game way easier.  
 
+# How to Run
+Open the VoltorbFlip.jar file with Java installed.
+
 # Rights n Stuff
 This is open source, feel free to modify and improve. I claim no right to the originality nor concept of the program.
